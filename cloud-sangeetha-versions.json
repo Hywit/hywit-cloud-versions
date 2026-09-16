@@ -1,5 +1,5 @@
 {
-  "HYWIT_UI_IMAGE": "hywit/cloud:hywit-ui-0.0.1",
+  "HYWIT_UI_IMAGE": "hywit/cloud:hywit-ui-0.0.2",
   "INIT_SERVICE_IMAGE": "hywit/cloud:init-service-0.0.1",
   "HYWIT_CORE_IMAGE": "hywit/cloud:hywit-core-0.0.1",
   "BASE_MCP_SERVER_IMAGE": "hywit/cloud:base-mcp-server-0.0.1",
