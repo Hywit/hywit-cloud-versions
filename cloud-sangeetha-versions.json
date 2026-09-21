@@ -3,7 +3,7 @@
   "INIT_SERVICE_IMAGE": "hywit/cloud:init-service-0.0.1",
   "HYWIT_CORE_IMAGE": "hywit/cloud:hywit-core-0.0.1",
   "BASE_MCP_SERVER_IMAGE": "hywit/cloud:base-mcp-server-0.0.1",
-  "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/cloud:http-endpoints-server-0.0.1",
+  "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/cloud:http-endpoints-server-0.0.2",
   "AGENT_DB_SECRETS_IMAGE": "hywit/cloud:agent-db-secrets-0.0.1",
   "NOTEBOOK_KERNEL_IMAGE": "hywit/cloud:agent-ide-notebook-0.0.1",
   "NB_HARNESS_IMAGE": "hywit/cloud:nb-harness-0.0.1"
