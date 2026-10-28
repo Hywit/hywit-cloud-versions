@@ -3,7 +3,7 @@
   "NOTEBOOK_KERNEL_IMAGE": "hywit/cloud:agent-ide-notebook-1.0.11",
   "NB_HARNESS_IMAGE": "hywit/cloud:nb-harness-1.0.11",
   "HYWIT_UI_IMAGE": "hywit/cloud:hywit-ui-1.0.7",
-  "BASE_MCP_SERVER_IMAGE": "hywit/cloud:base-mcp-server-1.0.7",
+  "BASE_MCP_SERVER_IMAGE": "hywit/cloud:base-mcp-server-1.0.8",
   "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/cloud:http-endpoints-server-1.0.4",
   "AGENT_DB_SECRETS_IMAGE": "hywit/cloud:agent-db-secrets-0.0.1"
 }
